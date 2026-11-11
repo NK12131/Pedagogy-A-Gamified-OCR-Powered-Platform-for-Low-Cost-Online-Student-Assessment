@@ -1,0 +1,38 @@
+body {
+	color: #fff;
+    background: #3598dc;
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading{
+    margin-top: 100px;
+}
+
+.card-style{
+    margin-top: 100px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 200px !important;
+    margin-bottom: 25px;
+}
+
+.card{
+  border-radius: 1%;
+  box-shadow:  0 0 10px rgb(218 215 215 / 60%);
+  border: 1px solid #efebeb;
+  opacity: 98%;
+}
+
+.btn{
+    width: 150px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.hint-text  {
+	padding-bottom: 15px;
+	text-align: center;
+}
+
